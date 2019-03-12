@@ -2,7 +2,7 @@
   "name": "clicky-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/markpython86/Clicky-Game",
+  "homepage": "https://markpython86.github.io/Clicky-Game/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.4",
