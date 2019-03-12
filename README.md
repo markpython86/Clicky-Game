@@ -16,7 +16,7 @@ try out the game here:
 
 1. Navigate to a project direcotry on your machine where you want to clone the repository
 2. run the command in the terminal:
-    * `git clone https://github.com/evanejtucker/clicky-game.git`
+    * `git clone https://github.com/markpython86/Clicky-Game.git`
 3. change directory into the newly cloned project:
     * `cd clicky-game`
 4. install the node dependenices:
