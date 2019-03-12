@@ -1,14 +1,14 @@
 {
-  "main.css": "/markpython86/Clicky-Game/static/css/main.fb63173f.chunk.css",
-  "main.js": "/markpython86/Clicky-Game/static/js/main.926f4ac2.chunk.js",
-  "main.js.map": "/markpython86/Clicky-Game/static/js/main.926f4ac2.chunk.js.map",
-  "runtime~main.js": "/markpython86/Clicky-Game/static/js/runtime~main.5a6d510f.js",
-  "runtime~main.js.map": "/markpython86/Clicky-Game/static/js/runtime~main.5a6d510f.js.map",
-  "static/js/2.da50c75f.chunk.js": "/markpython86/Clicky-Game/static/js/2.da50c75f.chunk.js",
-  "static/js/2.da50c75f.chunk.js.map": "/markpython86/Clicky-Game/static/js/2.da50c75f.chunk.js.map",
-  "index.html": "/markpython86/Clicky-Game/index.html",
-  "precache-manifest.5b17a986d0f58d5180c0937baa7e01bc.js": "/markpython86/Clicky-Game/precache-manifest.5b17a986d0f58d5180c0937baa7e01bc.js",
-  "service-worker.js": "/markpython86/Clicky-Game/service-worker.js",
-  "static/css/main.fb63173f.chunk.css.map": "/markpython86/Clicky-Game/static/css/main.fb63173f.chunk.css.map",
-  "static/media/Header.css": "/markpython86/Clicky-Game/static/media/geometry.7544e036.svg"
+  "main.css": "/Clicky-Game/static/css/main.2ef21ac2.chunk.css",
+  "main.js": "/Clicky-Game/static/js/main.926f4ac2.chunk.js",
+  "main.js.map": "/Clicky-Game/static/js/main.926f4ac2.chunk.js.map",
+  "runtime~main.js": "/Clicky-Game/static/js/runtime~main.012bace8.js",
+  "runtime~main.js.map": "/Clicky-Game/static/js/runtime~main.012bace8.js.map",
+  "static/js/2.da50c75f.chunk.js": "/Clicky-Game/static/js/2.da50c75f.chunk.js",
+  "static/js/2.da50c75f.chunk.js.map": "/Clicky-Game/static/js/2.da50c75f.chunk.js.map",
+  "index.html": "/Clicky-Game/index.html",
+  "precache-manifest.7ea28b82eb70f89a9f0c89272c50cc21.js": "/Clicky-Game/precache-manifest.7ea28b82eb70f89a9f0c89272c50cc21.js",
+  "service-worker.js": "/Clicky-Game/service-worker.js",
+  "static/css/main.2ef21ac2.chunk.css.map": "/Clicky-Game/static/css/main.2ef21ac2.chunk.css.map",
+  "static/media/Header.css": "/Clicky-Game/static/media/geometry.7544e036.svg"
 }
